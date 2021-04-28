@@ -1,3 +1,4 @@
+#Anti-OPSEC Contrainteligência em redes anônimas. by CATx003 - Palestra apresentada na ROADSEC dia 28-04-2021
 ![1](https://user-images.githubusercontent.com/31081984/116445358-34098a80-a82c-11eb-8870-782f7420b511.png)
 ![2](https://user-images.githubusercontent.com/31081984/116445364-353ab780-a82c-11eb-9c1c-84deffa1c268.png)
 ![3](https://user-images.githubusercontent.com/31081984/116445366-35d34e00-a82c-11eb-9139-f30d9ce2b343.png)
